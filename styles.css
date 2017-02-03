@@ -1,0 +1,29 @@
+div {
+    background-color: #b3ffff
+}
+
+h2{
+    font-size: 100spx;
+    color: #0066CC
+}
+
+img{
+    margin: 75px
+    
+}
+h1.center{
+    text-align: center;
+    color: darkblue;
+}
+h1.large{
+    font-size: 300%;
+}
+h1.medium{
+    font-size: 200%;
+}
+p{
+    padding: 25px 75px 25px 75px;
+}
+#tj{
+    background-color: rebeccapurple;
+}
